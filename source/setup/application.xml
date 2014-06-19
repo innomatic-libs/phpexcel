@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<application>
+
+	<definition>
+		<idname>PHPExcel</idname>
+		<release>
+			<version>1.8.0-1</version>
+			<date>2014/06/12</date>
+			<changesfile>CHANGES</changesfile>
+		</release>
+		<description>PHPExcel library</description>
+		<category>libraries</category>
+		<iconfile></iconfile>
+		<legal>
+			<author>
+				<name>Innoteam Srl</name>
+				<email>info@innoteam.it</email>
+				<web>http://www.innoteam.it/</web>
+			</author>
+			<copyright></copyright>
+			<license>LGPL</license>
+			<licensefile>LICENSE.LGPL</licensefile>
+		</legal>
+		<support>
+			<supportemail>helpdesk@innoteam.it</supportemail>
+			<bugsemail>helpdesk@innoteam.it</bugsemail>
+			<maintainer>
+				<name>Innoteam</name>
+				<email>info@innoteam.it</email>
+			</maintainer>
+		</support>
+	</definition>
+
+	<components>
+
+		<extras name="phpexcel" />
+
+	</components>
+	
+</application>
