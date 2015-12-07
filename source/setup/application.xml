@@ -4,7 +4,7 @@
 	<definition>
 		<idname>PHPExcel</idname>
 		<release>
-			<version>1.8.0-1</version>
+			<version>1.8.1</version>
 			<date>2014/06/12</date>
 			<changesfile>CHANGES</changesfile>
 		</release>
@@ -36,5 +36,5 @@
 		<extras name="phpexcel" />
 
 	</components>
-	
+
 </application>
